@@ -8,9 +8,9 @@
 ### Build the app
 
 - Make sure you have Go installed on your system
-- Close this repo, and run `go mod tidy`
+- Clone this repo, and run `go mod tidy`
 - Compile with `go build -o appname .`
-- Rename `test-data.example.json` or supply your own valid JSON file
+- Rename `test-data.json.example` or supply your own valid JSON file
 
 ### Run the app
 
